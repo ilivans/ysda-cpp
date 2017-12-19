@@ -1,2 +1,2 @@
-# ysda-cpp
-C++ course at YSDA, 2017
+# Links:
+Classes introduction:  http://www.cplusplus.com/doc/tutorial/classes/
